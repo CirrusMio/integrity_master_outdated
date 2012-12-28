@@ -1,0 +1,5 @@
+Add an endpoint to IntegrityCI to return an icon based on the last run being
+built against the latest master version, so you can see which branches were
+built against an old version of master.
+
+Really only useful with Integrity's `auto_branch` configuration.
